@@ -1,4 +1,6 @@
-With this templete you just have to run "npm i" in terminal & you are good to go.
+With this templete you just have to run just one command in your terminal & you are good to go.
+->run the following command (This will create node_module folder in your project folder.) :- 
+npm i
 
 
 
