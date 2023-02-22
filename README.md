@@ -1,3 +1,11 @@
+With this templete you just have to run "npm i" in terminal & you are good to go.
+
+
+
+
+
+Here are the steps if you Want to create it by yourself :----
+
 Step 1 – Create Your Project Folder :- 
     npm create vite@latest your-project-name -- --template react
 
