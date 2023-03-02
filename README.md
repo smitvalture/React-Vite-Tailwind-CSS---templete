@@ -1,6 +1,6 @@
 With this templete you just have to run just one command in your terminal & you are good to go.
 ->run the following command (This will create node_module folder in your project folder.) :- 
-npm i
+`npm i`
 
 
 
@@ -9,7 +9,7 @@ npm i
 Here are the steps if you Want to create it by yourself :----
 
 Step 1 – Create Your Project Folder :- 
-    npm create vite@latest your-project-name -- --template react
+    `npm create vite@latest your-project-name -- --template react`
 
 Step 2 – Navigate to Your Project Folder :- 
     cd your-project-name
